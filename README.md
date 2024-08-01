@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Prisma, PostgresSQL**
 
-- 👯 I’m looking to collaborate on **book store management app**
-
-- 🤝 I’m looking for help with **chat app**
+- 👯 I’m looking to collaborate on **ai chatbot application**
 
 - 💬 Ask me about **react, javascript**
 
